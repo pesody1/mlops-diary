@@ -1,5 +1,3 @@
-# mlops-diary
-
 # MLOps Day 1 - EC2 실습
 
 ## 🔑 실습 목표
